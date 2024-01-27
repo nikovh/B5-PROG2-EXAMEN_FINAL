@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Servicios Basicos App</string>
+    <string name="titulo_app">Registro Medidor</string>
+    <string name="input_medidor">Medidor</string>
+    <string name="serv_agua">Agua</string>
+    <string name="serv_luz">Luz</string>
+    <string name="serv_gas">Gas</string>
+    <string name="btn_Ingresar">Agregar medición</string>
+    <string name="input_fecha">Fecha</string>
+    <string name="h3_Medidor">Medidor de:</string>
+    <string name="btn_Registrar">Registrar medición</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Services App</string>
+    <string name="titulo_app">Meter Record</string>
+    <string name="input_medidor">Meter</string>
+    <string name="serv_agua">Water</string>
+    <string name="serv_luz">Light</string>
+    <string name="serv_gas">Gas</string>
+    <string name="btn_Ingresar">Add record</string>
+    <string name="input_fecha">Date</string>
+    <string name="h3_Medidor">Meter of:</string>
+    <string name="btn_Registrar">"Record measurement "</string>
+</resources>
